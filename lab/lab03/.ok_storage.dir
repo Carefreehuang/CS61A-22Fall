@@ -1,0 +1,4 @@
+'ordered_digits-correct', (0, 66)
+'make_repeater-correct', (512, 66)
+'apply_twice-correct', (1024, 66)
+'div_by_primes_under_no_lambda-correct', (1536, 66)
